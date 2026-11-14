@@ -1,0 +1,9 @@
+﻿Order ID,Buyer Username,Item Name,SKU,Qty,Bin,Order Note,Shipping Address,City,State,ZIP,Country
+,case_a_demo,Amber candle,CND-AMB,1,A-01,,18 Market Street,Portland,OR,97205,US
+DEMO-3001,case_b_demo,,,2,A-04,,940 Pine Avenue,Austin,TX,78701,US
+DEMO-3002,case_c_demo,Cedar soap,SOAP-CED,,B-02,,51 Lake Drive,Chicago,IL,60601,US
+DEMO-3002,case_c_demo,Cedar soap,SOAP-CED,0,B-02,,51 Lake Drive,Chicago,IL,60601,US
+DEMO-3003,case_d_demo,Linen pouch,POUCH-LIN,1,A-04,,225 Birch Lane,Brooklyn,NY,11201,US
+DEMO-3003,case_d_demo,Linen pouch,POUCH-LIN,1,A-04,,225 Birch Lane,Brooklyn,NY,11201,US
+DEMO-3004,case_e_demo,Mint tea,TEA-MINT,2,C-03,"Ring bell, unit 4
+second floor",9 Union Square,San Francisco,CA,94108,US

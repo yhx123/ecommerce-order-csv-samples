@@ -1,0 +1,9 @@
+Name,Financial Status,Fulfillment Status,Lineitem quantity,Lineitem name,Lineitem sku,Vendor,Shipping Name,Shipping Address1,Shipping City,Shipping Province,Shipping Zip,Shipping Country,Notes
+#1041,paid,unfulfilled,2,Amber candle,CND-AMB,North Light,Maya Chen,18 Market Street,Portland,OR,97205,US,Gift wrap
+#1041,paid,unfulfilled,1,Linen pouch,POUCH-LIN,Common Thread,Maya Chen,18 Market Street,Portland,OR,97205,US,Gift wrap
+#1042,paid,unfulfilled,3,Cedar soap,SOAP-CED,Field Works,Alex Rivera,940 Pine Avenue,Austin,TX,78701,US,
+#1043,paid,unfulfilled,1,Amber candle,CND-AMB,North Light,Jamie Lee,72 Garden Road,Seattle,WA,98101,US,Leave at front desk
+#1044,paid,unfulfilled,2,Linen pouch,POUCH-LIN,Common Thread,Sam Patel,51 Lake Drive,Chicago,IL,60601,US,
+#1045,paid,unfulfilled,1,Cedar soap,SOAP-CED,Field Works,Taylor Wong,225 Birch Lane,Brooklyn,NY,11201,US,
+#1045,paid,unfulfilled,1,Amber candle,CND-AMB,North Light,Taylor Wong,225 Birch Lane,Brooklyn,NY,11201,US,
+#1046,paid,unfulfilled,4,Mint tea,TEA-MINT,Good Steep,Jordan Kim,9 Union Square,San Francisco,CA,94108,US,Fragile tin
