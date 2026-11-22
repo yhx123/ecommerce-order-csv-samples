@@ -44,6 +44,13 @@ You can test any of the sample CSVs above directly in your browser without uploa
 
 ---
 
+## Community Listings & Feedback
+
+- **Curated Listing:** Featured in [`Think-Cube/ecommerce-awesome`](https://github.com/Think-Cube/ecommerce-awesome#fulfillment) (Fulfillment section).
+- **Weird CSV Headers / Column Edge Cases?** If your marketplace export (Shopify, eBay, Whatnot, Etsy, WooCommerce, or custom POS) breaks column mapping, feel free to [open an Issue](https://github.com/yhx123/ecommerce-order-csv-samples/issues) with sanitized/fictional sample headers so we can add a fixture and test case.
+
+---
+
 ## License
 
 MIT — feel free to fork, reuse these fictional test CSVs in CI/CD or shipping parser tests, and submit PRs with anonymized column layouts for other marketplaces.
